@@ -6,7 +6,7 @@
     <h3>Some points which you must add in your project(Android and iOS)</h3>    
 </div>
 
- <h4>It will be worked like this</h4>
+ <h4>It will be working like this</h4>
  <img src="https://github.com/user-attachments/assets/a1934bd7-41f5-4a5b-be3b-f169a6764ef1" width="500" height="250" />
 
 <br>
