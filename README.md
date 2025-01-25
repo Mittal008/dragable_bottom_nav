@@ -7,10 +7,9 @@
 </div>
 
  <h4>It will be working like this</h4>
- <img src="https://github.com/user-attachments/assets/a1934bd7-41f5-4a5b-be3b-f169a6764ef1" width="500" height="250" />
-
+ 
 <video controls>
-  <source src="taskVideo.mp4" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/84d12070-8e67-4ce1-9504-56dddcf588c0" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
