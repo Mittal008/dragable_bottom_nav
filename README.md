@@ -7,13 +7,10 @@
 </div>
 
  <h4>It will be working like this</h4>
- 
-<video controls>
-  <source src="https://github.com/user-attachments/assets/84d12070-8e67-4ce1-9504-56dddcf588c0" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
+ https://github.com/user-attachments/assets/84d12070-8e67-4ce1-9504-56dddcf588c0
  
+
 <br>
 <br>
 <br>
